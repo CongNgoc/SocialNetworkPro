@@ -1,0 +1,3 @@
+--fix without punkt
+import nltk
+nltk.download('punkt')
