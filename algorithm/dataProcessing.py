@@ -3,7 +3,6 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import re
 import numpy as np
-from sklearn.model_selection import train_test_split
 from htmllaundry import strip_markup
 
 
